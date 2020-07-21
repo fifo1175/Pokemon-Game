@@ -52,7 +52,7 @@ int main()
     cout << "3. Squirtle" << endl;
     cout << "4. Pikachu" << endl;
     int error = 0;
-    Pokemon starter;
+    Pokemon starter; // create a pokemon object that will be their first pokemon
     while(error == 0)
     {
         string choice;
