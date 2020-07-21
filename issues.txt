@@ -1,0 +1,6 @@
+1. PrintMap function isn't displaying minimap
+2. Random Pokemon encounters need to happen at better times
+3. End of a fight - choose new pokemon and continue fight
+4. Make random events less frequent
+5. Improve White Space between turns and events - make it uniform
+6. Instructions/tutorial
