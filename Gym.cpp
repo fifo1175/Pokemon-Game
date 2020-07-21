@@ -10,7 +10,7 @@
 using namespace std;
 
 
-Gym(string TrainerName, vector<Pokemon> TrainerPokemon, int XLoc, int YLoc)
+Gym::Gym(string TrainerName, vector<Pokemon> TrainerPokemon, int XLoc, int YLoc)
 {
     trainerName = TrainerName;
     trainerPokemon = TrainerPokemon;
